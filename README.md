@@ -77,7 +77,7 @@ NAME : P.KEERTHANA
 REG NO : 212223240069
 
 ```
-```
+```C
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
@@ -311,6 +311,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif /* USE_FULL_ASSERT */
 
 ```
+
 
 ## Output screen shots of proteus  :
 
